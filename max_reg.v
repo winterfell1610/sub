@@ -9,6 +9,8 @@ module max_reg(
     output reg [7:0] reg_op
     );
 
+	// git test///////
+
 	//integer clk_temp  =0;
 	//reg [15:0]	shifter = 15'h0;
 	//wire  [7:0]	din_temp;
