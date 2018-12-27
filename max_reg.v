@@ -7,6 +7,7 @@ module max_reg(
     input 		global_rst,
     input 		master_rst,
     output reg [7:0] reg_op
+    
     );
 
 	// git test///////
